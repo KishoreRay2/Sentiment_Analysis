@@ -1,6 +1,5 @@
 streamlit==1.25.0
 streamlit-chat==0.1.1
-google-ai-generative-ai
 google-ai-generativelanguage==0.2.0
 google-api-core==2.11.1
 google-auth==2.22.0
