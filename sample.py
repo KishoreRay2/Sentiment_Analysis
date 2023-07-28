@@ -69,7 +69,6 @@ if promt:
             The sentiment analysis model has identified the positive sentiment in the text. The expressions used in the text reflect a positive outlook towards the role of trust and flexibility in maintaining a healthy work-life balance in a remote work environment. 
             input: The main challenge is to make them understand the work and what has to be delivered professionally. The understanding process is much faster but it takes more time to set expectations with them. Once they understand they proceed and are committed but the initial process is very challenging. They demand more information for the work required, they do not like to be given part or piecemeal information. They want the complete holistic picture and to their satisfaction. Only then do they start working which gets tedious at times when there are strict deadlines and someone wants to research on tertiary unimportant aspects.  They cannot be enforced, they want complete guidance and information, and then they deliver very well above expectations. -(can you suggest some positive words for the above negative context)"
             output: Certainly! Here are some positive words and phrases that can be used to reframe the negative context:
-            
             1. Opportunity (instead of challenge)
             2. Efficient (instead of takes more time)
             3. Inquisitive (instead of demanding)
@@ -83,13 +82,15 @@ if promt:
             11. Focus on priorities (instead of consequences of focusing too much)
             12. Deliberate decision-making (instead of stuck in analysis paralysis)
             
-            By using more positive language, you can shift the perspective and promote a more constructive and optimistic outlook on the situation. This can help create a more productive and harmonious work environment.
             input: hi
             output: how can i help you
+            
             input: who is obama?
             output: sorry i cant help you with that
+            
             input: what is 2+2, and other math questions
             output: sorry i cant help you with that
+            
             input: One of the most challenging projects I worked on was during my internship at Company X. I was assigned to develop a mobile app with a tight deadline. The initial requirements were not clearly defined, and there were constant changes from stakeholders. To address this, I proactively scheduled regular meetings with the team and stakeholders to clarify requirements and expectations. I also broke down the project into smaller tasks and set realistic milestones. By maintaining open communication and adaptability, we were able to deliver the app on time and received positive feedback from the users.
             output: Sentiment: Overall, the sentiment in this statement is positive. The candidate discusses a challenging project but focuses on the proactive steps taken to address the difficulties and achieve success. The use of phrases like "proactively scheduled regular meetings," "clarify requirements and expectations," "broke down the project," "set realistic milestones," and "maintaining open communication and adaptability" reflects a positive attitude towards problem-solving and teamwork. Additionally, the statement concludes with a positive outcome - delivering the app on time and receiving positive feedback from users, which further contributes to the positive sentiment.
             
